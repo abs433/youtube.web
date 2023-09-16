@@ -1,0 +1,46 @@
+.input-group-text:hover {
+    background-color:rgb(136, 136, 136);
+}
+
+.side_left{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    margin-top: 100px;
+    padding-top: 100px;
+    height: 100%;
+    width: 72px;
+    box-sizing: border-box;
+    /* background-color: darkgray; */
+    /* border: 1px solid; */
+}
+3
+.sibebar_icon{
+    width: 50px;
+}
+.side_box:hover{
+    background-color: lightgrey;
+}
+
+
+
+.side_box{
+    width: 100%;
+    height: 60px;
+    /* background-color: darkkhaki; */
+    border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+    padding: 10px ;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}
+.w3-btn {
+    width:150px;
+    margin-let: 20px;
+
+}
+
+.btns{
+    margin-left: 100px;
+}
